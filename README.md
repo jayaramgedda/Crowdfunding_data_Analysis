@@ -1,0 +1,1 @@
+This project focuses on analyzing Kickstarter crowdfunding data to understand campaign performance, funding success factors, and backer behavior. The objective is to transform raw campaign data into actionable insights using data modeling, SQL analysis, and interactive dashboards built across multiple BI tools.
